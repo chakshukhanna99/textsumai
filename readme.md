@@ -1,2 +1,18 @@
-## AI Text Summarizer
-Welcome to the AI Text Summarizer App! This app leverages the power of Artificial Intelligence APIs to provide concise summaries of long texts. Whether you have a lengthy article, research paper, or any other text document that you want to summarize quickly, our app can assist you.
+# AI Text Summarizer
+
+An AI-powered text summarizer that generates concise summaries from lengthy content using OpenAI's API.
+
+## 🚀 Features
+
+- Summarizes long text into concise versions.
+- Uses API for text summarization.
+- Easy setup and execution.
+
+## 🛠️ Installation
+
+### 1️⃣ Clone the Repository
+
+```sh
+git clone https://github.com/chakshukhanna99/textsumai.git
+
+```
